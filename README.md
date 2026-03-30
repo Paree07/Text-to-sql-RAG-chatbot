@@ -1,0 +1,2 @@
+# Text-to-sql-RAG-chatbot
+“This is a Text-to-SQL chatbot. It allows users to ask questions in natural language like ‘total sales’ or ‘highest sale’, and the system converts that into SQL queries, runs them on a database, and returns results in a user-friendly format.”
